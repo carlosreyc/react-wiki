@@ -1,0 +1,23 @@
+.wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    width: 100vw;
+    height: 100vh;
+}
+.searchBtn {
+    margin-left: 10px;
+}
+.container {
+    margin-right: 50%;
+    margin-left: 50%;
+}
+.list {
+    width: 70vw;
+    height: 70vh;
+}
+
+body {
+    font: 14px "Century Gothic", Futura, sans-serif;
+    
+}
